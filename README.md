@@ -1,11 +1,24 @@
 # PetDaDuck2.0
 ## PET DA DUCK IS BACK AND BETTER THAN EVER
 
-Using laravel and AWS **PetDaDuck 2** saves your progress! 
-Press **D, U, C, or K** to gain points! 
+
+---
+<div align="center">
+  <hr style="width:50%;">
+  
+  ### Download and run the **.exe** file in the PETdaDUCK2 folder to play!
+  
+  ### Press **D, U, C, or K** to gain points! 
+</div>
+
+---
+### Using laravel and AWS **PetDaDuck 2** saves your progress! (see backend [here](https://github.com/SamEBaker/Unity-Clicker-Game-With-Laravel))
+
+
+
 
 Changes:
-- **NEW** settings menu to change your background and adjust the (totally copyrighted) music to enhance your gameplay experience!
+- **NEW** settings menu to change your background and adjust the ~~totally copyrighted~~ music to enhance your gameplay experience!
 - **NEW** Duck Upgrade Shop! Increase the amount of points gained each click and gain a cool duck! 
   - Currently *8* ducks available through play! 
 - Your highscore is **saved** and the top **3** players on the leaderboard at the bottom! (no need to refresh like in PetDaDuck 1)
