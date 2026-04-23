@@ -21,7 +21,7 @@ Changes:
 - **NEW** settings menu to change your background and adjust the ~~totally copyrighted~~ music to enhance your gameplay experience!
 - **NEW** Duck Upgrade Shop! Increase the amount of points gained each click and gain a cool duck! 
   - Currently *8* ducks available through play! 
-- Your highscore is **saved** and the top **3** players on the leaderboard at the bottom! (no need to refresh like in PetDaDuck 1)
+- Your highscore is **saved** and the top **3** players on the leaderboard at the bottom! (no need to refresh like in [PetDaDuck 1](https://github.com/SamEBaker/PETdaDUCK))
 - Want to start over with your account? Press *New Game* to reset!
 
 
