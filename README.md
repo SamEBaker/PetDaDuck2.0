@@ -18,6 +18,7 @@
 
 
 Changes:
+- **NEW** GAMBLING!! Spend points to change your points per click! The more points you spend the higher the possible points per click you can get!  Let it ride!
 - **NEW** settings menu to change your background and adjust the ~~totally copyrighted~~ music to enhance your gameplay experience!
 - **NEW** Duck Upgrade Shop! Increase the amount of points gained each click and gain a cool duck! 
   - Currently *8* ducks available through play! 
