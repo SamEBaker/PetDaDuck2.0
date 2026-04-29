@@ -25,6 +25,8 @@ Changes:
 - Your highscore is **saved** and the top **3** players on the leaderboard at the bottom! (no need to refresh like in [PetDaDuck 1](https://github.com/SamEBaker/PETdaDUCK))
 - Want to start over with your account? Press *New Game* to reset!
 
+<img width="1920" height="1080" alt="Screenshot 2026-04-28 165821" src="https://github.com/user-attachments/assets/0371d3db-0f79-45b1-b588-f0dac6665874" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-28 165920" src="https://github.com/user-attachments/assets/1d9253be-c523-41f9-9377-3d326675d46b" />
 
 - Credits:
   -  https://caz-bee.itch.io/ - DUCK SPRITES
