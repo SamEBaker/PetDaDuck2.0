@@ -14,7 +14,7 @@
 ---
 ### Using laravel and AWS **PetDaDuck 2** saves your progress! (see backend [here](https://github.com/SamEBaker/Unity-Clicker-Game-With-Laravel) and game files [here](https://github.com/SamEBaker/PTD2.0))
 
-
+Also on ITCH.IO: https://samebaker.itch.io/pet-da-duck-2
 
 
 Changes:
